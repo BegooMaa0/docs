@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"my-mcp-server-6f62f555": {
+			"type": "stdio",
+			"command": "https://silver-journey-xrxwgxrxr75gcvp7q.github.dev/",
+			"args": []
+		},
+		"my-mcp-server-532ff5b5": {
+			"url": "https://silver-journey-xrxwgxrxr75gcvp7q.github.dev/",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
